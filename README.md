@@ -1,3 +1,7 @@
+# ARCHIVED
+As the new Curriculum is coming out, this repo will be considered as an legacy project. in the new Curriculum they may have changed some stuff, 
+
+
 # Cafe-Menu-Template
 
 A Flawless [Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu) Built with CSS From [FreeCodeCamp Responsive Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu)
